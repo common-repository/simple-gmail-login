@@ -1,0 +1,73 @@
+
+#gmail-auth-log {
+    max-width: 740px;
+    overflow: hidden;
+    overflow-y: scroll;
+    padding: 0 10px 5px;
+    line-height: 140%;
+    background: #F2F2F2;
+    border:#EEE solid 1px;
+    border-radius: 4px;
+}
+
+#gmail-login-settings .inner-wrap {
+    padding-top: 12px;
+}
+
+#gmail-login-settings #message {
+    margin-top: 12px;
+    margin-bottom: 0;
+}
+
+#gmail-login-settings h1 {
+    margin-top: 30px;
+}
+
+#gmail-login-settings textarea {
+    width: 60%;
+    height: 150px;
+}
+
+#gmail-login-settings .footer-preview {
+    padding: 20px;
+    max-width: 60%;
+    text-align: center;
+    background: #F2F2F2;
+}
+
+#gmail-login-settings .error-msg {
+    background: red;
+    color: #FFF;
+    padding: 6px;
+}
+
+#donation {
+    overflow: auto;
+    background:#ffffed;
+    margin-top:22px;
+    border: #EEE solid 1px;
+    padding: 20px 12px;
+    max-width: 540px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -o-border-radius: 4px;
+    -ms-border-radius: 4px;
+    border-radius: 4px;
+}
+
+#donation p  {
+    float:left;
+}
+
+#donation form {
+    float: right;
+    display: block;
+    background: #FFF;
+    padding: 8px;
+    border:#ffeec3 solid 1px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -o-border-radius: 10px;
+    -ms-border-radius: 10px;
+    border-radius: 10px;
+}
